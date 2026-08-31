@@ -3,6 +3,7 @@ base
 cliphist
 dolphin
 dunst
+fastfetch
 firefox
 git
 hyprland
@@ -22,6 +23,7 @@ noto-fonts-emoji
 openssh
 pipewire
 power-profiles-daemon
+rsync
 sudo
 waybar
 wireplumber
