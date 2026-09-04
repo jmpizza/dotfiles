@@ -5,3 +5,5 @@ mozilla/
 
 .config/dconf/
 .config/pulse
+.config/trashrc
+
