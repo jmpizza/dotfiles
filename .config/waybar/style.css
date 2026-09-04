@@ -212,6 +212,14 @@ label:focus {
     background-color: #f53c3c;
 }
 
+#custom-lightbulb {
+    font-size: 20px;
+    background-image: url('icons/lightbulb.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 #custom-media {
     background-color: #66cc99;
     color: #2a5c45;
