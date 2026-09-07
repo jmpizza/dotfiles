@@ -1,6 +1,7 @@
 amd-ucode
 base
 cliphist
+docker
 dolphin
 dunst
 fastfetch
